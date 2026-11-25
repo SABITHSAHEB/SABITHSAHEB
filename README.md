@@ -1,25 +1,18 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0ea5e9&text=SABITHSAHEB&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Security%20Engineer%20%7C%20Open%20Source%20Bug%20Hunter%20%7C%20OSS%20Contributor&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0ea5e9&text=SABITHSAHEB&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Security%20Engineer%20%7C%20Vulnerability%20Researcher%20%7C%20OSS%20Contributor&descAlignY=60"/>
 
 # 🔐 SABITHSAHEB
 
-### Security Engineer • Vulnerability Researcher • OSS Contributor
+### Security Engineer • Vulnerability Researcher • Open Source Contributor
 
-📍 **Tumkur, Karnataka, India**
+📍 Tumkur, Karnataka, India
 
-<p align="center">
-<a href="https://digiscrypt.com/">
-<img src="https://img.shields.io/badge/🏢%20DigiScrypt-Visit%20Website-0ea5e9?style=for-the-badge" />
-</a>
 <img src="https://img.shields.io/badge/⚡%20CODE%20OPS%2047%20A-Security%20Research-1e293b?style=for-the-badge" />
-</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Security+Engineer;Open+Source+Bug+Hunter;Memory+Safety+Researcher;CODE+OPS+47+A;Building+Reliable+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Security+Engineer;Open+Source+Bug+Hunter;Memory+Safety+Researcher;Vulnerability+Researcher;Building+Reliable+Software" />
 
-<p>
 <img src="https://komarev.com/ghpvc/?username=SABITHSAHEB&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 </div>
 
@@ -27,72 +20,81 @@
 
 # 👨‍💻 About Me
 
-I am a Security Engineer based in **Tumkur, Karnataka, India** and a member of **CODE OPS 47 A**.
+Hey! I'm **Sabith Saheb**, a security-focused software engineer and open-source contributor from Tumkur, Karnataka, India.
 
-I specialize in identifying and fixing security, reliability, and correctness issues in large open-source projects.
+I'm passionate about understanding how software works internally, discovering vulnerabilities, investigating unexpected behavior, and fixing bugs that affect real-world systems.
 
-My work focuses on understanding system architecture, validating assumptions, reproducing real-world failures, and delivering maintainable fixes that align with project expectations.
+I enjoy exploring large codebases, digging into complex issues, reproducing crashes, analyzing root causes, and developing reliable fixes.
 
-### Core Focus
+My primary focus is contributing to open-source projects by identifying security and reliability issues and helping make software safer and more dependable.
 
-* 🔐 Security Research
-* 🐞 Vulnerability Discovery
-* ⚙️ Systems Programming
-* 🔍 Static Analysis
-* 🛡️ Memory Safety
-* 🚦 Concurrency Analysis
-* 📦 Parser Auditing
-* 🧠 Root Cause Investigation
-* 🚀 Open Source Contributions
+I'm also a member of **CODE OPS 47 A**, where I pursue my interest in security research and technical problem-solving.
+
+### What I Do
+
+- 🔐 Security Research & Vulnerability Discovery
+- 🐞 Open Source Bug Hunting
+- 🛡️ Memory Safety Analysis
+- ⚙️ Systems Programming
+- 🔍 Static Code Analysis
+- 🚦 Concurrency & Race Condition Analysis
+- 📦 Parser Security Auditing
+- 🧠 Root Cause Investigation
+- 🚀 Open Source Contributions
 
 ---
 
-# 🎯 Security Interests
+# 🎯 Security Research Interests
 
 ```text
 Memory Corruption
-Resource Lifecycle Bugs
+Heap & Stack Vulnerabilities
+Use-After-Free
+Buffer Overflows
 Race Conditions
-Parser Vulnerabilities
-Input Validation
 Integer Overflow
+Parser Vulnerabilities
+Resource Lifecycle Bugs
 Undefined Behavior
-Reliability Engineering
+Input Validation
 Secure Coding Practices
-Open Source Security
+Software Reliability
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technologies & Tools
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,java" />
-</p>
-
-### Platforms & Tools
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,cmake" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,java"/>
 </p>
 
-### Areas
+### Platforms & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,cmake"/>
+</p>
+
+### Technical Areas
 
 ```text
 Security Auditing
 Code Review
 Static Analysis
-Fuzzing
-Bug Hunting
+Fuzz Testing
+Vulnerability Research
+Debugging
 Patch Development
-Open Source Contributions
+Regression Testing
+Systems Programming
+Open Source Development
 ```
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Contribution Streak
 
 <div align="center">
 
@@ -124,52 +126,67 @@ Open Source Contributions
 
 ---
 
-# 🚀 Open Source Philosophy
+# 🚀 Open Source Journey
+
+I believe meaningful open-source contributions go beyond simply submitting code.
+
+I enjoy investigating difficult bugs, understanding project architecture, communicating with maintainers, and developing fixes that are practical, tested, and maintainable.
+
+### My Contribution Approach
 
 ```text
 Understand the architecture.
-Validate the assumptions.
-Reproduce the failure.
-Find the root cause.
-Design the minimal fix.
-Write the regression test.
-Help maintainers merge safely.
+Investigate the implementation.
+Identify potential weaknesses.
+Reproduce the issue.
+Analyze the root cause.
+Develop a minimal fix.
+Add regression tests.
+Collaborate with maintainers.
 ```
+
+### Areas I Contribute To
+
+- Security and vulnerability fixes
+- Memory safety improvements
+- Bug fixes and reliability enhancements
+- Code quality improvements
+- Regression test development
+- Static analysis findings
+- Open-source security research
 
 ---
 
-# 📌 Featured Work
+# 💡 Beyond Coding
 
-### Security & Reliability Research
+I enjoy:
 
-* Security-focused code auditing
-* Memory safety investigations
-* Concurrency and race-condition analysis
-* Parser hardening reviews
-* Resource lifecycle validation
-* Open-source bug hunting
+- Exploring how complex software systems work.
+- Learning new security research techniques.
+- Investigating bugs that others might overlook.
+- Reading and understanding large codebases.
+- Improving my systems programming skills.
+- Contributing meaningful fixes to open-source software.
 
-### Open Source Contributions
-
-* Reliability improvements
-* Security hardening
-* Bug fixes
-* Test coverage enhancements
-* Maintainer-friendly patches
+I'm always interested in learning, experimenting, and solving challenging technical problems.
 
 ---
 
 <div align="center">
 
-## 💭 Engineering Principle
+# 💭 My Engineering Philosophy
 
 ### "Understand the system before fixing the bug."
 
-📍 Tumkur, Karnataka, India
-🚀 CODE OPS 47 A
+**Find the weakness. Understand the cause. Build the fix.**
 
-⭐ Thanks for visiting my profile.
+⚡ CODE OPS 47 A
+
+📍 Tumkur, Karnataka, India
+
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e293b,100:0ea5e9"/>
+
