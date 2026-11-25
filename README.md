@@ -4,10 +4,9 @@
 
 # 🔐 SABITHSAHEB
 
-### Security Engineer @ DigiScrypt • Vulnerability Researcher • OSS Contributor
+### Security Engineer • Vulnerability Researcher • OSS Contributor
 
 📍 **Tumkur, Karnataka, India**
-🚀 **Team: CODE OPS 47 A**
 
 <p align="center">
 <a href="https://digiscrypt.com/">
